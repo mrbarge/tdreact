@@ -3,3 +3,4 @@ env
 .ropeproject
 Dockerfile-dev
 Dockerfile-prod
+htmlcov
